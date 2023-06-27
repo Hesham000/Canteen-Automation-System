@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "128546733017",
+    "project_id": "orders-51754",
+    "storage_bucket": "orders-51754.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128546733017:android:b5d5654658d7d60b6ff7c8",
+        "android_client_info": {
+          "package_name": "com.example.orders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128546733017-hithatt22nl5l2t1f9b1r5ugb5ua20bg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF4T56OFyibchy9hKXKalseekUuTCZ-wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128546733017-hithatt22nl5l2t1f9b1r5ugb5ua20bg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "128546733017-hqu0dmfsibq9ga41u6op0q3gu3bofabp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.canteenOrderingUser"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
